@@ -1,4 +1,4 @@
-![exp2 time](https://github.com/user-attachments/assets/baa46d00-93c0-448a-9475-48a2551f1a7a)![image](https://github.com/user-attachments/assets/fee89a67-ebde-4c12-918b-c1f09c6b5bd4)# BOOLEAN_FUNCTION_MINIMIZATION
+# BOOLEAN_FUNCTION_MINIMIZATION
 
 **AIM:**
 
@@ -56,9 +56,6 @@ Developed by:keerthana A  RegisterNumber:24900259
 
 **Timing Diagram**
 ![exp2 time](https://github.com/user-attachments/assets/6f96abe4-7de6-4fe7-aabc-6501c574fe12)
-
-
-
 **Result:**
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
