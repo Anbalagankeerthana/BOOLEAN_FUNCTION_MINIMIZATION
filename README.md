@@ -1,5 +1,5 @@
-# EXP 2: BOOLEAN_FUNCTION_MINIMIZATION
-# DATE : 3rd OCT 2024
+### EXP 2: BOOLEAN_FUNCTION_MINIMIZATION
+### DATE : 03/10/2024
 **AIM:**
 
 To implement the given logic function verify its operation in Quartus using Verilog programming.
